@@ -1,0 +1,22 @@
+{
+  "name": "get-fit",
+  "version": "0.0.1",
+  "description": "Routine Building API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dented/get-fit.git"
+  },
+  "author": "Gram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dented/get-fit/issues"
+  },
+  "homepage": "https://github.com/dented/get-fit",
+  "dependencies": {
+    "hapi": "~2.0.0"
+  }
+}
